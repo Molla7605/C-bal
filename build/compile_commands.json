@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/jyc76/cppProject/C-bal/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/c-bal.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\c-bal.dir\\src\\Main.cpp.obj -c C:\\Users\\jyc76\\cppProject\\C-bal\\src\\Main.cpp",
+  "file": "C:/Users/jyc76/cppProject/C-bal/src/Main.cpp",
+  "output": "CMakeFiles/c-bal.dir/src/Main.cpp.obj"
+}
+]

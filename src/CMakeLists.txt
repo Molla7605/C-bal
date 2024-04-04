@@ -1,0 +1,3 @@
+set(C_BAL_SRC_DIR ${CMAKE_SOURCE_DIR}/src)
+
+set(C_BAL_SRCS ${C_BAL_SRC_DIR}/Main.cpp)
